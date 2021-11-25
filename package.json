@@ -8,5 +8,11 @@
   "keywords": [],
   "author": "Dimang Chou",
   "license": "ISC",
-  "description": "Create an react project from scratch"
+  "description": "Create an react project from scratch",
+  "devDependencies": {
+    "@babel/cli": "^7.16.0",
+    "@babel/core": "^7.16.0",
+    "@babel/preset-env": "^7.16.4",
+    "@babel/preset-react": "^7.16.0"
+  }
 }
